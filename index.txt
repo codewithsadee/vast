@@ -1,0 +1,196 @@
+VAST - Make an Impression & Drive More Downloads With VAST
+
+
+
+#---------- HEDER ----------#
+
+VAST
+
+Home
+Features
+About
+App
+Blog
+Contact
+
+Get Started
+
+aria-label = toggle manu
+
+<ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
+
+
+
+#---------- HERO ----------#
+
+Best Mobile App 12 day free
+
+Make an Impression & Drive More Downloads With VAST
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididu ut labore et dolore magna aliqua. Ut enim ad minim veniamquis nostrud
+
+aria-label = Download from app store
+alt = app store
+
+aria-label = Download from play store
+alt = play store
+
+alt = hero banner
+
+
+
+#---------- FEATURES ----------#
+
+Our App Feature
+
+Awesome Features
+
+<ion-icon name="create-outline" aria-hidden="true"></ion-icon>
+Easy to Edit
+Lorem ipsum dolor sit cons ectetur adipiscing
+
+<ion-icon name="shield-checkmark-outline" aria-hidden="true"></ion-icon>
+Fully Secure
+
+<ion-icon name="settings-outline" aria-hidden="true"></ion-icon>
+Manage User
+
+<ion-icon name="cube-outline" aria-hidden="true"></ion-icon>
+Free Trial
+
+
+
+#---------- ABOUT ----------#
+
+alt = about banner
+
+Our Acquaintance
+
+We Are Trusted By Thousands Of People
+
+Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Ut elit tellus, luc tus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Ut elit tellus, luc tus nec ullam corpe
+
+<ion-icon name="folder" aria-hidden="true"></ion-icon>
+
+Device Quality Design
+
+Lorem ipsum dolor sit amet, consec tetur adipiscing elit Lorem ipsum dolor sit amet, consec tetur adipiscing elit.
+
+<ion-icon name="pie-chart" aria-hidden="true"></ion-icon>
+
+Easy to Manage Data
+
+Discover More
+
+
+
+#---------- ABOUT 2 ----------#
+
+Cool & Amazing Design
+
+We Develop Amazing App For Startups
+
+Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Ut elit tellus, luc tus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Ut elit tellus, luc tus nec ullam corper.
+
+Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Ut elit tellus, luc tus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor.
+
+Discover More
+
+alt = about banner
+
+
+
+#---------- APP ----------#
+
+alt = app banner
+
+Download Our App
+
+Get The App For Free And Start Now
+
+Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Ut elit tellus, luc tus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet con Lorem ipsum dolor
+
+aria-label = Download from app store
+alt = app store
+
+aria-label = Download from play store
+alt = play store
+
+
+
+#---------- BLOG ----------#
+
+Recent Blogs
+
+Our Tips And Latest News
+
+alt = Build A Full Web Chat App From Our Scratch
+
+<ion-icon name="calendar-outline" aria-hidden="true"></ion-icon>
+May 22,2022 
+
+<ion-icon name="chatbox-outline" aria-hidden="true"></ion-icon>
+2 Comment
+
+Build A Full Web Chat App From Our Scratch
+
+Read More
+
+alt = Brush Strokes Energize Trees In Paintings
+Brush Strokes Energize Trees In Paintings
+
+alt = Insights on How to Improve Your Teaching.
+Insights on How to Improve Your Teaching.
+
+
+
+#---------- FOOTER ----------#
+
+VAST
+
+Duis cursus, mi quis viverra ornare, eros dolor interdum nulla utimp erdiet commodo diam libero vitae nibh et jus cursus id rutrum lore imperdiet ut sem vitae risus tristique posuere
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-google"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+   
+Company
+
+About Us
+Contact Us
+Core Services
+Our Team
+Pricing Plan
+
+
+Useful Links
+
+Contact Us
+Privacy Policy
+App Download
+How It Works
+Terms & Conditions
+
+
+Get In Touch
+
+<ion-icon name="call-outline" aria-hidden="true"></ion-icon>
++12023459999
+
+<ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
+supportvast@gmail.com
+
+<ion-icon name="map-outline" aria-hidden="true"></ion-icon>
+3004 3 rd Ln,
+Los Angeles, Calnia, 11
+
+&copy; 2022 All Rights Reserved by codewithsadee.
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = back to top
+
+<ion-icon name="chevron-up" aria-hidden="true"></ion-icon>
